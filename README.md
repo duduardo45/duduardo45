@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id5&left_color=green&right_color=red)
-
+-->
 <a href="https://git.io/streak-stats"></a>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=duduardo45&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
