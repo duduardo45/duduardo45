@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm a Computer Engineering student at PUC-Rio, very much interested in learning more about computer networks and working with them.
 
+I've worked with Data Science in a project at ExACTa-FIT for Eletrobras in the past, and learned a lot about how to handle datasets with inconsistent formatting and limited structure, developing skills in data cleaning and preprocessing.
+
+I've developed projects both personal and for university that involved a varied set of things, going from games and 3D modelling to low level assembly and a syntax analyzer for a custom programming language.
+
+I'm always open to learn more! I really appreciate the things I can learn from the people I work with so I'm always down to work with new and unfamiliar projects (*as may be apparent by now*). 
+
+Currently I'm focused on my studies, and plan to continue in my academic route towards a degree at first, with hopes for a Master's abroad.
 <!--
 **duduardo45/duduardo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
