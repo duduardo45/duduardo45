@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/streak-stats"></a>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=duduardo45&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duduardo45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duduardo45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages graph"  />
 </div>
 <!--
 <div align="center">
@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 </div>
 -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/duduardo45/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=duduardo45&theme=transparent&hide_border=true&count_private-true" alt="GitHub Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=duduardo45&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true"  />
 </div>
