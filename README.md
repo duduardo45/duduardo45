@@ -1,18 +1,13 @@
 ## Hi there 👋
+I'm a Computer Engineering student at PUC-Rio, very much interested in learning more about computer networks and working with them.
 
-I'm a Computer Engineering student at PUC-Rio. I'm passionate about systemic efficiency, performance, and tackling complex problems.
+I've worked with Data Science in a project at ExACTa-FIT for Eletrobras in the past, and learned a lot about how to handle datasets with inconsistent formatting and limited structure, developing skills in data cleaning and preprocessing.
 
-Currently, I'm working at the ExACTa-FIT lab in partnership with EXA. I've been acting as both a Developer and a Product Owner, developing cibersecurity solutions for Brazilian people in a digital security ecosystem and exploring Machine Learning models to defend against synthetic cybernetic threats. 
+I've developed projects both personal and for university that involved a varied set of things, going from games and 3D modelling to low level assembly and a syntax analyzer for a custom programming language.
 
-In the past, I worked on Data Science projects with Eletrobras, where I got a lot of experience cleaning up messy datasets and applied my passion for optimizing critical data pipelines to eliminate technical bottlenecks. 
+I'm always open to learn more! I really appreciate the things I can learn from the people I work with so I'm always down to work with new and unfamiliar projects (*as may be apparent by now*). 
 
-My projects—both personal and for university—involve a pretty varied set of things. Lately, I've been jumping from building a custom open-source 3D graphic engine in C++ and OpenGL  to doing scientific research in Intermittent Embedded ML, and even writing a syntax analyzer for a custom language. 
-
-I'm always open to learning more! I really appreciate the things I can learn from the people I work with, so I'm always down to work with new and unfamiliar projects (*as may be apparent by now*). 
-
-Currently, I'm focused on my studies and research, and plan to continue in my academic route towards a degree at first, with hopes for a Master's abroad.
-
-
+Currently I'm focused on my studies, and plan to continue in my academic route towards a degree at first, with hopes for a Master's abroad.
 <!--
 **duduardo45/duduardo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
